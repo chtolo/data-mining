@@ -1,4 +1,4 @@
-![image](https://github.com/chtolo/data-mining/assets/135275877/f9c4ccaf-46cd-47df-9a69-2a494bf35747)
+
 
 # Projet  : Analyse et Prédiction de Données Immobilières à Boston
 
@@ -18,9 +18,13 @@ L'objectif principal de ce projet est de comprendre les différentes caractéris
 
 3. **Analyse des données (Data Analysis) :**
    - Dans cette phase, nous allons effectuer une analyse approfondie des données pour identifier les tendances, les relations entre les différentes caractéristiques et leur impact sur les prix des maisons. Nous utiliserons également un notebook de visualisation pour créer des graphiques et des représentations visuelles des données afin de mieux les comprendre.
-     ![image](https://github.com/chtolo/data-mining/assets/135275877/71bf73d4-d940-4214-b9e3-3631151706cf)
+   - voici quelques graphes qui illustents ca :
+     ![image](https://github.com/chtolo/data-mining/assets/135275877/b25a5653-6683-4851-b47b-1a53294f6058)
 
-     ![image](https://github.com/chtolo/data-mining/assets/135275877/2ae3d47b-788d-4f32-a6b2-14173786d51a)
+     
+     ![image](https://github.com/chtolo/data-mining/assets/135275877/71bf73d4-d940-4214-b9e3-3631151706cf)
+      
+     
 
 
 4. **Prédiction des données (Data Prediction) :**
@@ -35,7 +39,7 @@ L'objectif principal de ce projet est de comprendre les différentes caractéris
 3. Explorez les données à l'aide du notebook de nettoyage `cleaning_boston_housing.ipynb`.
 4. Utilisez le notebook de visualisation pour explorer graphiquement les données.
 5. Utilisez le notebook de prédiction pour faire des prédictions à l'aide du modèle contenu dans le fichier "boston_housing_model.h5".
-6. Consultez les résultats dans le répertoire `results`.
+
 
 ## Auteur
 
